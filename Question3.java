@@ -11,9 +11,9 @@ public class Question3
      */
      
     Scanner in = new Scanner(System.in);
-    system.out.println("Enter an integer- ");
+    System.out.println("Enter an integer- ");
     int number = in.nextInt();
     int multiplied = number * number; 
-    system.out.println("The multiplied integer is:" + multiplied);
+    System.out.println("The multiplied integer is:" + multiplied);
   }
 }
